@@ -7,7 +7,7 @@ export function CareersCta() {
       <div className="relative overflow-hidden rounded-3xl bg-ink text-ink-foreground">
         <Image
           src="/images/team.png"
-          alt="BCE Global Tech engineers collaborating"
+          alt="TechCom engineers collaborating"
           fill
           sizes="100vw"
           className="object-cover opacity-25"

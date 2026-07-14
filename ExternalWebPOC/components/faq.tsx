@@ -6,7 +6,7 @@ import { SectionLabel } from "./about"
 
 const faqs = [
   {
-    q: "What does BCE Global Tech do?",
+    q: "What does TechCom do?",
     a: "We are on a mission to modernize global connectivity, one connection at a time — building the highway to the future of communications, media and entertainment across 5G, MEC, IoT and cloud-native architecture.",
   },
   {

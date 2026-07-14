@@ -21,12 +21,11 @@ export function Pillars() {
       <SectionLabel>How you grow with us</SectionLabel>
 
       <div className="mt-14 grid gap-6 md:grid-cols-3">
-        {pillars.map((pillar, i) => (
+        {pillars.map((pillar) => (
           <div
             key={pillar.title}
             className="flex flex-col gap-5 rounded-3xl border border-border bg-card p-8 lg:p-10"
           >
-            <span className="font-mono text-sm text-accent">{`0${i + 1}`}</span>
             <h3 className="font-display text-3xl font-light tracking-tight">{pillar.title}</h3>
             <p className="text-pretty leading-relaxed text-foreground/70">{pillar.body}</p>
           </div>

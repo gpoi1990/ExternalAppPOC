@@ -17,7 +17,7 @@ const quicksand = Quicksand({
 })
 
 export const metadata: Metadata = {
-  title: 'BCE Global Tech — Shaping the future of telecommunication',
+  title: 'TechCom — Shaping the future of telecommunication',
   description:
     'On a mission to modernize global connectivity, one connection at a time. Pioneering advancements in 5G, MEC, IoT and cloud-native architecture.',
   generator: 'v0.app',
