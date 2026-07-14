@@ -4,7 +4,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* bce theme - bell blue palette */
+/* TechCom theme - bell blue palette */
 
 @theme inline {
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;

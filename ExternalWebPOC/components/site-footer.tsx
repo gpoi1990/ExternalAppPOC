@@ -21,7 +21,7 @@ export function SiteFooter() {
       <div className="grid gap-12 border-t border-border pt-14 lg:grid-cols-12">
         <div className="lg:col-span-5">
           <span className="font-display text-3xl font-semibold tracking-tight">
-            bce<span className="text-accent">.</span>
+            TechCom<span className="text-accent">.</span>
           </span>
           <p className="mt-5 max-w-sm text-pretty leading-relaxed text-foreground/60">
             Shaping the future of telecommunication — modernizing global connectivity, one
