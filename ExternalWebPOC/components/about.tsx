@@ -17,7 +17,7 @@ export function About() {
       <div className="mt-12 grid gap-12 lg:grid-cols-12 lg:gap-16">
         <div className="lg:col-span-5">
           <h2 className="text-balance font-display text-4xl font-light leading-[1.05] tracking-tight sm:text-5xl">
-            Welcome to BCE Global Tech<span className="text-accent">.</span>
+            Welcome to TechCom<span className="text-accent">.</span>
           </h2>
         </div>
 

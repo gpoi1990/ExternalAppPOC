@@ -51,7 +51,7 @@ export function SiteFooter() {
       </div>
 
       <div className="mt-14 flex flex-col items-start justify-between gap-4 border-t border-border pt-6 text-sm text-foreground/50 sm:flex-row sm:items-center">
-        <p>© {new Date().getFullYear()} BCE Global Tech. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} TechCom. All rights reserved.</p>
         <div className="flex gap-6">
           <a href="#" className="transition-colors hover:text-foreground">
             Privacy Policy
