@@ -1,7 +1,6 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"
 import { Menu, X } from "lucide-react"
 
 const links = [
@@ -17,15 +16,8 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-border/60 bg-background/80 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6 lg:px-10">
-        <a href="#top" className="flex items-center" aria-label="BCE Global Tech, a Bell Canada company">
-          <Image
-            src="/images/bce-logo-white.png"
-            alt="BCE Global Tech"
-            width={216}
-            height={80}
-            priority
-            className="h-9 w-auto brightness-0"
-          />
+        <a href="#top" className="flex items-center" aria-label="TechCom">
+          <span className="text-xl font-semibold tracking-tight text-foreground">TechCom</span>
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
